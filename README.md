@@ -1,4 +1,4 @@
-# AngularJS Lightbulb Conversion Calculator
+# AngularJS Lightbulb Wattage/Cost Calculator
 
 A conversion calculator for estimating wattage/cost of different lightbulbs.
 
